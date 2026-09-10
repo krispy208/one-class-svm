@@ -1,4 +1,4 @@
-This is the README.txt for the OneClassSVM implementation, which aims to detect anomalies.
+This is the README.md for the OneClassSVM implementation, which aims to detect anomalies.
 
 The model is trained on normal data and then tested on both normal and anomalous data.
 This implementation utilizies the KDDCUP 10% subset as well as file containing the feature names.
